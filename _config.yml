@@ -1,1 +1,18 @@
 theme: jekyll-theme-cayman
+# Navigation bar links
+# Add new pages as needed (e.g., about.md, projects.md)
+nav_links:
+  - name: "Home"
+    link: "/"
+  - name: "About"
+    link: "/about"
+  - name: "Projects"
+    link: "/projects"
+  - name: "Contact"
+    link: "/contact"
+
+# Social links
+# Add your social media or GitHub profile links
+social_links:
+  github: "https://github.com/rake218"
+  linkedin: "https://www.linkedin.com/in/rakeshmenon2202/"
