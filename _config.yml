@@ -1,4 +1,10 @@
-theme: jekyll-theme-cayman
+# Basic site settings
+title: "Rakesh's Embedded Systems Projects"
+description: "Exploring embedded systems, from robust, low-power designs to AI integration."
+author: "Rakesh Menon"
+baseurl: "" # Leave blank for the root site
+url: "https://<your-username>.github.io" # Replace with your GitHub Pages URL
+theme: jekyll-theme-cayman # Chosen theme; change if you prefer a different one
 # Navigation bar links
 # Add new pages as needed (e.g., about.md, projects.md)
 nav_links:
